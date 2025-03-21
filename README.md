@@ -1,3 +1,4 @@
-Agregando el proyecto programacion 3 en git 
-con dos trabajos 
+Repositorio para las guias de Programacion III 
+con java y sprin
+
 
