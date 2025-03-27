@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/colecciones.iml" filepath="$PROJECT_DIR$/colecciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion 3.iml" filepath="$PROJECT_DIR$/.idea/Programacion 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabajo Practico 0/Trabajo Practico 0.iml" filepath="$PROJECT_DIR$/Trabajo Practico 0/Trabajo Practico 0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trabajo Practico 1 Genericos y Excepciones/Trabajo Practico 1 Genericos y Excepciones.iml" filepath="$PROJECT_DIR$/Trabajo Practico 1 Genericos y Excepciones/Trabajo Practico 1 Genericos y Excepciones.iml" />
     </modules>
   </component>
 </project>
