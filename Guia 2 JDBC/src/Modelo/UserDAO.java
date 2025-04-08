@@ -86,7 +86,7 @@ public class UserDAO {
 
     // Actualiza un Alumno existente
     public void actualizar(Alumno alumno) {
-        String sql = "UPDATE alumnos SET nombre = ?, apellido = ?, edad = ?, email = ? ,  WHERE id = ?";
+        String sql = "UPDATE alumnos SET nombre = ?, apellido = ?, edad = ?, email = ?  WHERE id = ?";
         try (PreparedStatement pstmt = conn.prepareStatement(sql)) {
             pstmt.setString(1, alumno.getNombre());
             pstmt.setString(2, alumno.getApellido());
